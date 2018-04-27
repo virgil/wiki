@@ -1,6 +1,7 @@
 ---
 name: FAQ
-category: 
+category: null
+published: true
 ---
 
 Answers to questions about Ethereum
