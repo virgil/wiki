@@ -9,6 +9,7 @@ Answers to questions about Ethereum
 <!-- Generated with marked-toc https://github.com/jonschlinkert/marked-toc -->
 <!-- toc -->
 
+
 * [Ethereum](#ethereum)
   * [What is Ethereum?](#what-is-ethereum)
   * [Where can I learn more about Ethereum?](#where-can-i-learn-more-about-ethereum)
@@ -61,7 +62,7 @@ If you prefer to learn by watching videos, see:
 - Forums: https://forum.ethereum.org
 - Github: https://github.com/ethereum
 - Blog: https://blog.ethereum.org
-- Wiki: http://wiki.ethereum.org
+- Wiki: http://ethereum.wiki
 - Meetups: http://ethereum.meetup.com
 - Whitepaper: http://ethereum.org/ethereum.html
 - Yellow Paper: http://gavwood.com/paper.pdf
